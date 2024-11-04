@@ -55,7 +55,7 @@ Sono un developer junior con una forte passione per il backend development. Dopo
 
 ## 🌐 Connettiti con me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vito-campobasso-junior-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vito-campobasso-junior-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VitoCampobasso)
 
 ## 💭 Citazione Preferita
@@ -64,7 +64,7 @@ Sono un developer junior con una forte passione per il backend development. Dopo
 
 ## 📫 Come raggiungermi
 
-- 💼 LinkedIn: [Vito Campobasso](www.linkedin.com/in/vito-campobasso-junior-developer)
+- 💼 LinkedIn: [Vito Campobasso](https://www.linkedin.com/in/vito-campobasso-junior-developer)
 - 📧 Email: vito98-@libero.it
 
 ---
